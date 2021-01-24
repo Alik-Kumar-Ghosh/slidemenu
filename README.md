@@ -15,7 +15,7 @@ link - https://alik-kumar-ghosh.github.io/slidemenu/
 
 ### Customization 
 
-change margin area according to your project
+* change margin area according to your project
 <br>
 
 
